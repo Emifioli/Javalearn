@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Кидала:jar">
+    <output-path>D:/MyJar</output-path>
+    <root id="archive" name="Кидала.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="D:/MyJar/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Javalearn" />
+    </root>
+  </artifact>
+</component>
